@@ -1,0 +1,35 @@
+body{
+    background-color:white;
+    margin:auto; 
+}
+
+header h1{
+       font-family: ;
+       color:gray;
+       border-bottom:0.08em gray solid;
+       padding:2em;
+       margin:auto;
+       border-top:0.8em gray solid;
+       text-align: center;
+}
+
+.side{
+    width:25%;
+    padding-bottom:100%;
+    border-right:0.15em gray solid;
+    color:gray;
+    text-align:center;   
+}
+
+.side h3{
+      padding-top:6em;
+      margin:auto;
+      font-size:2em;  
+}
+#content .title { 
+    margin-left:25%;
+    width:75%;
+    float:left;
+
+
+}
